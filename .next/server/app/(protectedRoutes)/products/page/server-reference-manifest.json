@@ -1,0 +1,291 @@
+{
+  "node": {
+    "7f48ba0f67349b5555b761f395b55b64ee3700777a": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "action-browser"
+      }
+    },
+    "7f7daf4f1106fa5ed85d96ccfcbee1139a76340f69": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "action-browser"
+      }
+    },
+    "7f8f86695fa0eb59412fb98e3a7f26ece5d4ff5661": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "action-browser"
+      }
+    },
+    "7ff7d760957fab854dcb97e20b03fcbd472aa5ac05": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "action-browser"
+      }
+    },
+    "005ffcd77ad2e080e6e5ed6845cf521ba18d6feb0d": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "rsc"
+      }
+    },
+    "00a7df98030afb5e1b09c88b48979b8addae282911": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "rsc"
+      }
+    },
+    "7f02c687f5db63ca057db60300957549f9a1e3b015": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "action-browser"
+      }
+    },
+    "7f08fb802401e542c3794f1dc23602f8b9ae0cf4bd": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "action-browser"
+      }
+    },
+    "7f23b033f4f2e4fda6826845ad2fefb445a91b7193": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "action-browser"
+      }
+    },
+    "7f48c0a2dfc37f878145411fccb0b78c2741dec4e0": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "action-browser"
+      }
+    },
+    "7f4ad8a6c94d3ddb11a3553f9684969484bffa2974": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "action-browser"
+      }
+    },
+    "7f6c6f8eee509fa5771357b02ae390ef9bed9bafe9": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "action-browser"
+      }
+    },
+    "7fb35e4e0be70a284afcb6255726f082956518994b": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "action-browser"
+      }
+    },
+    "7fcf7cdf7adeae1d18a5f9d505109971c3fe8f6d73": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "action-browser"
+      }
+    },
+    "7ff2565aade817ebb320896b7e8538c21bfcca665f": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "action-browser"
+      }
+    },
+    "7f3b84862125a5d170738c59338f3b04aa794641aa": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "rsc"
+      }
+    },
+    "7f487e16d0d733a93d34c2a963715359f91981ea80": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "rsc"
+      }
+    },
+    "7f8f1829d9ec6cd5e586eca34dd651e1993326094e": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "rsc"
+      }
+    },
+    "7fa02db967d0e797e738ab0e6c28f090d19da949b7": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "rsc"
+      }
+    },
+    "4019a57e493a3346554356a48a0bf0d2e65bdc354d": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "action-browser"
+      }
+    },
+    "6045b8d257ffdc76f15a4f97c70a0cdd31be9336ef": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "action-browser"
+      }
+    },
+    "7f01c67f60110dc8bdfb7e1d04b6780d6444e50952": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "action-browser"
+      }
+    },
+    "7f7797c8a9e84949aa24e4c14748f65b7edc81d018": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "action-browser"
+      }
+    },
+    "7fae278c30c6cefae4b949d4286835f37f4c727289": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "action-browser"
+      }
+    },
+    "7fbe4f6b3e17955cd5e695897eed8ce9456efde24d": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "action-browser"
+      }
+    },
+    "7fcdbf49e359ce5159b7812b3bb7a46c23dbd459c9": {
+      "workers": {
+        "app/(protectedRoutes)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(protectedRoutes)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/actions/auth.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/actions/product.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/actions/vapi.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/actions/stripe.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/src/actions/webinar.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(protectedRoutes)/products/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

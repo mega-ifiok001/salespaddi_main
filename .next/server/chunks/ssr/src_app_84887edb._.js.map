@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 43, "column": 0}, "map": {"version":3,"sources":["file:///Users/i/Desktop/salespaddi/src/app/%28auth%29/sign-up/%5B%5B...sign-up%5D%5D/page.tsx"],"sourcesContent":["import { SignUp } from '@clerk/nextjs';\nimport { dark } from '@clerk/themes';\n\nconst Signup = () => {\n  return (\n    <SignUp\n      appearance={{\n        baseTheme: dark,\n        variables: {\n          colorPrimary: '#2dd4bf',\n        },\n      }}\n    />\n  );\n};\n\nexport default Signup;\n"],"names":[],"mappings":";;;;AAAA;AACA;;;;AAEA,MAAM,SAAS;IACb,qBACE,8OAAC,sLAAA,CAAA,SAAM;QACL,YAAY;YACV,WAAW,mKAAA,CAAA,OAAI;YACf,WAAW;gBACT,cAAc;YAChB;QACF;;;;;;AAGN;uCAEe","debugId":null}}]
+}

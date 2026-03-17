@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/i/Desktop/salespaddi/src/app/%28auth%29/layout.tsx"],"sourcesContent":["import { ReactNode } from 'react';\n\ntype Props = {\n  children: ReactNode;\n};\n\nexport default function AuthLayout({ children }: Props) {\n  return (\n    <div className=\"w-full min-h-screen flex justify-center items-center\">\n      {children}\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;;AAMe,SAAS,WAAW,EAAE,QAAQ,EAAS;IACpD,qBACE,8OAAC;QAAI,WAAU;kBACZ;;;;;;AAGP","debugId":null}}]
+}

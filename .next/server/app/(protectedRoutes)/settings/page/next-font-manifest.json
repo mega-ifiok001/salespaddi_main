@@ -1,0 +1,18 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/src/app/(protectedRoutes)/settings/page": [
+      "static/media/4iCs6KVjbNBYlgoKfw72nU6AFw-s.p.e8f08384.woff2",
+      "static/media/4iCv6KVjbNBYlgoCjC3jsGyNPYZvgw-s.p.a25709c7.woff2",
+      "static/media/4iCv6KVjbNBYlgoC1CzjsGyNPYZvgw-s.p.3970f18e.woff2",
+      "static/media/4iCv6KVjbNBYlgoCxCvjsGyNPYZvgw-s.p.1d657ab5.woff2",
+      "static/media/4iCu6KVjbNBYlgoKej70l0miFYxn-s.p.b73cbc5f.woff2",
+      "static/media/4iCp6KVjbNBYlgoKejZftVyPN4FNgYUJ-s.p.91c84b65.woff2",
+      "static/media/xn7gYHE41ni1AdIRggexSvfedN4-s.p.2b9b556b.woff2",
+      "static/media/4iCp6KVjbNBYlgoKejZPslyPN4FNgYUJ-s.p.5e0ce165.woff2",
+      "static/media/4iCp6KVjbNBYlgoKejYHtFyPN4FNgYUJ-s.p.7e84c5bc.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

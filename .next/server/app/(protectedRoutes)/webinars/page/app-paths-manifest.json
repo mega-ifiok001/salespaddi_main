@@ -1,0 +1,3 @@
+{
+  "/(protectedRoutes)/webinars/page": "app/(protectedRoutes)/webinars/page.js"
+}

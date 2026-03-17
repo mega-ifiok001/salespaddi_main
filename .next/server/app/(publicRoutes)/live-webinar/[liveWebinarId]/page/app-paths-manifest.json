@@ -1,0 +1,3 @@
+{
+  "/(publicRoutes)/live-webinar/[liveWebinarId]/page": "app/(publicRoutes)/live-webinar/[liveWebinarId]/page.js"
+}

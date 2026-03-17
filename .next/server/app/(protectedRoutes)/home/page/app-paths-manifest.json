@@ -1,0 +1,3 @@
+{
+  "/(protectedRoutes)/home/page": "app/(protectedRoutes)/home/page.js"
+}
