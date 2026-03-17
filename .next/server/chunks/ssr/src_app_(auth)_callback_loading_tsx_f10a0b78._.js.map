@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/i/Desktop/salespaddi/src/app/%28auth%29/callback/loading.tsx"],"sourcesContent":["export default function Loading() {\n  return (\n    <div className=\"flex items-center justify-center min-h-screen\">\n      <div className=\"text-center\">\n        <div className=\"animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-primary mx-auto mb-4\"></div>\n        <p className=\"text-muted-foreground mb-2\">\n          Authenticating your account...\n        </p>\n        <p className=\"text-sm text-muted-foreground/70\">\n          Please wait while we set up your session\n        </p>\n      </div>\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;;AAAe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC;YAAI,WAAU;;8BACb,8OAAC;oBAAI,WAAU;;;;;;8BACf,8OAAC;oBAAE,WAAU;8BAA6B;;;;;;8BAG1C,8OAAC;oBAAE,WAAU;8BAAmC;;;;;;;;;;;;;;;;;AAMxD","debugId":null}}]
-}
