@@ -14,7 +14,7 @@ import ConfigField from './ConfigField';
 import DropDownSelect from './DropDownSelect';
 import {
   HoverCard,
-  HoverCardContent,
+  // HoverCardContent,
   HoverCardTrigger,
 } from '@/components/ui/hover-card';
 import Link from 'next/link';

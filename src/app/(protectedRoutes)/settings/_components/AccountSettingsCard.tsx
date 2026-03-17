@@ -14,7 +14,7 @@ import {
 } from '@/components/ui/dialog';
 import {
   HoverCard,
-  HoverCardContent,
+  // HoverCardContent,
   HoverCardTrigger,
 } from '@/components/ui/hover-card';
 import { LucideLogOut, LucideTrash2, LucideUser } from 'lucide-react';
@@ -91,9 +91,9 @@ export const AccountSettingsCard = ({ user }: Props) => {
                   <LucideUser className="w-4 h-4 mr-2" /> Edit Profile
                 </Button>
               </HoverCardTrigger>
-              <HoverCardContent className="glassBackground border-[2px] border-border px-2 py-1 [word-spacing:0.1em] text-sm">
+            {/*  <HoverCardContent className="glassBackground border-[2px] border-border px-2 py-1 [word-spacing:0.1em] text-sm">
                 This feature is available only on larger screens
-              </HoverCardContent>
+              </HoverCardContent> */}
             </HoverCard>
           ) : (
             <Button asChild variant="outline" className="flex-1">
